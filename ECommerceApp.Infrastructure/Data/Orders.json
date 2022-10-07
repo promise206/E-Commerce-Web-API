@@ -1,0 +1,19 @@
+[
+  {
+    "Id": "5adf7825-98b5-4351-8086-da39bf528d54",
+    "Status": 3,
+    "UserId": "5dfbf790-8d06-437e-bcaf-9409bd2e445b",
+    "OrderDetails": [
+      {
+        "Price": 7700,
+        "Quantity": 4,
+        "ProductId": "27904869-974e-48f9-8217-3821b4db05d5"
+      },
+      {
+        "Price": 7200,
+        "Quantity": 3,
+        "ProductId": "27904869-974e-48f9-8217-3821b4db05d5"
+      }
+    ]
+  }
+]

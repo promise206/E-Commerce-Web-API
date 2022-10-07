@@ -1,0 +1,25 @@
+[
+  {
+    "Id": "5cea7988-aa0b-4068-b0a7-d619af04e583",
+    "FirstName": "Okpalaugo",
+    "LastName": "Promise",
+    "Email": "okpalaugo.chukwuka1@gmail.com",
+    "Password": "ec12345",
+    "PasswordSalt": "z3GzbPRV5wbkKrFW",
+    "PasswordHash": "b9RcNyXS2zJcaNs6Xm/QOVTcgrQey5/dmaugXQCN9kHVgeTx0yC+K6rM4+yco0WL0/582/ZHRbQmQarZMv/Mzw==",
+    "PhoneNumber": "09060058188",
+    "Address": "N0 2 Ajason way, Nero bus-stop, Sangotedo, Lagos",
+    "UserRoles": [
+      {
+        "Id": "eae76e54-2b14-48c7-a097-2c086c01bc6a",
+        "UserId": "5cea7988-aa0b-4068-b0a7-d619af04e583",
+        "RoleId": "c006e8d0-7287-4226-aef6-badeeb2bd64a"
+      },
+      {
+        "Id": "8042815e-2b82-47f8-8a24-e9bc19153761",
+        "UserId": "5cea7988-aa0b-4068-b0a7-d619af04e583",
+        "RoleId": "e22863fe-5f3d-445f-87fb-a1a639a05fa5"
+      }
+    ]
+  }
+]

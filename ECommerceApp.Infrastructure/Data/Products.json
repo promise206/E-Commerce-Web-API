@@ -1,0 +1,52 @@
+[
+  {
+    "Id": "29644693-9917-4227-9bfb-77428c8b0541",
+    "Name": "SHUXING Fashion Handbag",
+    "Description": "SHUXING Fashion Handbag Atmospheric All-match Lady Shoulder Bag Messenger Bag",
+    "Price": 11000.0,
+    "Discount": 30.0,
+    "IsDiscountAvailable": true,
+    "Quantity": 5,
+    "Rating": 3,
+    "CategoryId": "533a7391-bd03-4d5b-bff0-1704773fbfd0",
+    "ProductImages": [
+      {
+        "ImageUrl": "21daf712-b2ff-424b-9575-f460b4033246_bag1.jpg"
+      },
+      {
+        "ImageUrl": "41e8e0b6-559b-4352-a5f8-0c1ddfdeba1a_bag2.jpg"
+      },
+      {
+        "ImageUrl": "50398ba9-d75b-4a18-ab34-c021be44fe5a_bag3.jpg"
+      },
+      {
+        "ImageUrl": "6e4ec143-b903-4b55-95fa-de1202de6335_bag4.jpg"
+      }
+    ]
+  },
+  {
+    "Id": "fd61240c-df0d-4182-9fce-bd1515635b9f",
+    "Name": "2021 Men's Casual High-Top Shoes- Beige",
+    "Description": "This pair of shoes uses beige, white and beige classic colors, 2021 Men's Casual High-Top Shoes- Beige`",
+    "Price": 13333.0,
+    "Discount": 46.0,
+    "IsDiscountAvailable": true,
+    "Quantity": 8,
+    "Rating": 4,
+    "CategoryId": "235a715d-9b66-4689-ae2b-cc7277dde29e",
+    "ProductImages": [
+      {
+        "ImageUrl": "12c8b447-7350-45fb-9024-e4c2c7cc4464_sneakers41.jpg"
+      },
+      {
+        "ImageUrl": "3dc87375-23de-490f-b833-9ed01436680a_sneakers42.jpg"
+      },
+      {
+        "ImageUrl": "7ecd794f-6b43-462b-897c-0cb20d324403_sneakers43.jpg"
+      },
+      {
+        "ImageUrl": "bd598c0c-4a45-4f8e-9543-767cc6fd2bd9_sneakers44.jpg"
+      }
+    ]
+  }
+]
